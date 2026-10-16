@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/niejunnan25/pi05-robotwin"><img src="https://img.shields.io/static/v1?label=Paper&amp;message=PDF&amp;color=red&amp;logo=arxiv&amp;logoColor=white" alt="Paper PDF" height="24"></a>
-  <a href="https://huggingface.co/niejunnan25/pi05-robotwin"><img src="https://img.shields.io/badge/Project-Website-blue" alt="Project website" height="24"></a>
+  <a href="https://niejunnan25.github.io/pace-project/"><img src="https://img.shields.io/badge/Project-Website-blue" alt="Project website" height="24"></a>
   <a href="https://huggingface.co/niejunnan25/pi05-robotwin"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&amp;message=HuggingFace&amp;color=yellow" alt="Hugging Face models" height="24"></a>
 </p>
 
@@ -16,7 +16,11 @@ PACE selects how many actions to execute from each predicted chunk before queryi
 
 We release the standalone PACE module, calibrated thresholds for all 50 RoboTwin tasks, and evaluation code for π₀.₅, including Fixed H=5/25/50 baselines and multi-GPU evaluation.
 
-[Using PACE](#install-and-try-the-core) · [RoboTwin evaluation](#prepare-environments-and-models) · [Citation](#citation)
+<p align="center">
+  <a href="#install-and-try-the-core">Using PACE</a> ·
+  <a href="#prepare-environments-and-models">RoboTwin evaluation</a> ·
+  <a href="#citation">Citation</a>
+</p>
 
 <a id="install-and-try-the-core"></a>
 
